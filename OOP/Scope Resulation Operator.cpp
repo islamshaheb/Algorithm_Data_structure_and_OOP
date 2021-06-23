@@ -4,6 +4,7 @@ using namespace std;
 
 // define method outside of the class but declare inside the class
 // It is called abstraction too
+// Private property can not access in this way
 
 class Phone
 {
